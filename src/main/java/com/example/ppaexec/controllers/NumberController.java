@@ -1,4 +1,4 @@
-package com.example.ppaexec.controller;
+package com.example.ppaexec.controllers;
 
 import com.example.ppaexec.ddo.NumberSumObj;
 import com.example.ppaexec.services.NumberService;
