@@ -1,6 +1,6 @@
 package com.example.ppaexec.controllers;
 
-import com.example.ppaexec.ddo.NumberSumObj;
+import com.example.ppaexec.dto.NumberSumObj;
 import com.example.ppaexec.services.NumberService;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.Max;

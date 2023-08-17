@@ -1,6 +1,6 @@
 package com.example.ppaexec.services;
 
-import com.example.ppaexec.ddo.NumberSumObj;
+import com.example.ppaexec.dto.NumberSumObj;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

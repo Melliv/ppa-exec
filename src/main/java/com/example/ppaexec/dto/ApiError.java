@@ -1,4 +1,4 @@
-package com.example.ppaexec.ddo;
+package com.example.ppaexec.dto;
 
 import lombok.Data;
 import org.springframework.http.HttpStatus;

@@ -1,6 +1,6 @@
 package com.example.ppaexec.security;
 
-import com.example.ppaexec.ddo.ApiError;
+import com.example.ppaexec.dto.ApiError;
 import jakarta.validation.ConstraintViolation;
 import jakarta.validation.ConstraintViolationException;
 import org.springframework.http.HttpHeaders;

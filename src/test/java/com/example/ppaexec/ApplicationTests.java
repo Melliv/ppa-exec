@@ -1,6 +1,6 @@
 package com.example.ppaexec;
 
-import com.example.ppaexec.ddo.NumberSumObj;
+import com.example.ppaexec.dto.NumberSumObj;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.hamcrest.Matchers;
 import org.junit.jupiter.api.Test;
